@@ -1,0 +1,6 @@
+{
+    "editor.formatOnPaste": true,
+    "code-runner.clearPreviousOutput": true,
+    "editor.formatOnSave": true,
+    "notebook.formatOnSave.enabled": true
+}
